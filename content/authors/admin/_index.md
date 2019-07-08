@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Federico Concas
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Analytics Graduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Glasgow
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an enthusiastic Data Analytics graduate with a background in Industrial Biotechnology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biotechnology
+- Data Analytics
+- Microbiology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MSc in Data Analytics
+    institution: University of Glasgow
+    year: 2019
+  - course: BSc in Industrial Biotechnology
+    institution: University of Cagliari
+    year: 2018
+  - course: High School Diploma
+    institution: LSS A. Pacinotti, Cagliari
+    year: 2014
+  - course: High School Diploma
+    institution: Lewis and Clark High School, WA
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -44,16 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "#contact"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/federico_concas
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/federico_concas
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+Federico Concas is a University of Glasgow graduate with a Master's degree in Data Analytics and a Bachelor's degree in Industrial Biotechnology.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
