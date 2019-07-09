@@ -33,11 +33,6 @@ date_format = "Jan 2006"
   * Wrote a publication-quality science paper 
   """
 
-  * Evaluated return-on-investment and profit-loss projections 
-  * Compiled comprehensive lists describing product and service offerings 
-  * Managed the complete redesign and launch of the company\'s website 
-  * Created an official company page on Facebook, Twitter and Google+ to facilitate interaction with customers 
-  * Managed the in-house advertising program (business cards, posters, ...)
 [[experience]]
   title = "Online marketing manager"
   company = "Studio dentistico Aledda"
@@ -45,12 +40,13 @@ date_format = "Jan 2006"
   location = "Cagliari, Italy"
   date_start = "2014-03-01"
   date_end = "2017-07-01"
-  description = ""
-  Description:
+  description = """
 
   * Evaluated return-on-investment and profit-loss projections 
   * Compiled comprehensive lists describing product and service offerings 
   * Managed the complete redesign and launch of the company\'s website 
   * Created an official company page on Facebook, Twitter and Google+ to facilitate interaction with customers 
   * Managed the in-house advertising program (business cards, posters, ...)
+  """
+
 +++
