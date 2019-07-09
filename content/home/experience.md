@@ -41,7 +41,8 @@ date_format = "Jan 2006"
   date_start = "2014-03-01"
   date_end = "2017-07-01"
   description = """
-
+  Responsibilities include:
+  
   * Evaluated return-on-investment and profit-loss projections 
   * Compiled comprehensive lists describing product and service offerings 
   * Managed the complete redesign and launch of the company\'s website 
