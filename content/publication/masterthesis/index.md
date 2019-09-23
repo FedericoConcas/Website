@@ -30,12 +30,12 @@ featured: true
 links:
 - name: "Master Thesis"
 #  url: ''
-url_pdf: "files/masterthesis/masterthesis.pdf"
+url_pdf: "content/masterthesis/masterthesis.pdf"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: '#'
-url_slides: "files/masterthesis/Presentation.html"
+url_slides: "content/masterthesis/Presentation.html"
 # url_source: '#'
 # url_video: '#'
 
@@ -60,9 +60,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
