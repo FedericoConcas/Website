@@ -1,5 +1,5 @@
 ---
-title: "Comparing linear and nonlinear classiﬁers on the normalised single-cell Raman spectra of a strain of Chlorella and a strain of Rhodobacter."
+title: "Comparing linear and nonlinear classifiers on the normalised single-cell Raman spectra of a strain of Chlorella and a strain of Rhodobacter."
 authors:
 - admin
 date: "2019-08-30T00:00:00Z"
@@ -20,16 +20,16 @@ publication_short: In *STC*
 
 abstract: Raman spectra are a physical technique that can be used to identify the metabolic state of bacteria in real-time and, therefore, be incorporated in industrial processes. For this reason,
 it is crucial to ﬁnd an adequate analysis that allows for fast and accurate predictions. In this dissertation, we compared linear to nonlinear algorithms for this task while establishing
-a protocol to train the best-performing classiﬁers. Upon comparing Regularized Logistic regression with and without a PCA pre-processing step, Support Vector Machines with
+a protocol to train the best-performing classifiers. Upon comparing Regularized Logistic regression with and without a PCA pre-processing step, Support Vector Machines with
 diﬀerent kernels, and Random Forest, on two diﬀerent Raman spectroscopy data sets, we were able to show that the linear strategy outperformed the nonlinear one on both data sets,
-amongst the considered algorithms. In one data set, regularized Logistic Regression and SVM with the Linear kernel were the best-performing classiﬁers, achieving a 96.6% out-of-sample
+amongst the considered algorithms. In one data set, regularized Logistic Regression and SVM with the Linear kernel were the best-performing classifiers, achieving a 96.6% out-of-sample
 Kappa; on the other data set, Logistic Regression was able to achieve the best performance of 90.2% thanks to a PCA pre-processing step. After repeating the analysis on a subset of the
 variables, selected for their importance, we saw a global improvement of all algorithms but the top-performing.
 
 # Summary. An optional shortened abstract.
 summary:  Raman spectra are a physical technique that can be used to identify the metabolic state of bacteria in real-time and, therefore, be incorporated in industrial processes. For this reason,
 it is crucial to ﬁnd an adequate analysis that allows for fast and accurate predictions. In this dissertation, we compared linear to nonlinear algorithms for this task while establishing
-a protocol to train the best-performing classiﬁers.
+a protocol to train the best-performing classifiers.
 
 tags:
 - Source Themes
