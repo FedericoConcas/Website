@@ -24,7 +24,7 @@ abstract: Raman spectra are a physical technique that can be used to identify th
 summary: Raman spectra are a physical technique that can be used to identify the metabolic state of bacteria in real-time and, therefore, be incorporated in industrial processes. For this reason, it is crucial to ﬁnd an adequate analysis that allows for fast and accurate predictions. In this dissertation, we compared linear to nonlinear algorithms for this task while establishing a protocol to train the best-performing classifiers.
 
 tags:
-- Source Themes
+- Thesis
 featured: true
 
 links:
@@ -42,7 +42,9 @@ url_slides: "/masterthesis/Presentation.html"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'On top, the discretized Raman spectra of the Chlorella and the Rhodobacter data sets.
+On the bottom, the same spectra have been smoothed with GAM to visualize the trends better. Each
+colour in the plots represents a metabolic state.'
   focal_point: ""
   preview_only: false
 
