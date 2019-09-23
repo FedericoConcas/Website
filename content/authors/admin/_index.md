@@ -70,4 +70,7 @@ user_groups:
 ---
 
 I am a University of Glasgow graduate with a Master's degree in Data Analytics and a Bachelor's degree in Industrial Biotechnology.
-I am skilled in data analysis, data visualisation and statistical modelling.
+I am skilled in data analysis, data visualisation and statistical modelling and I have extensive knowledge of biology.
+
+As someone who is passionate about Biology, my time at university has inspired interest in topics based on Microbiology and Biotechnology. The study of Statistics during my MSc is a transversal skill at the heart of science.
+When combined, these skills allow us to push the limits of knowledge, solve problems and improve current processes. I intend to find employment related in these areas, but I am also open to PhD positions based on these fields.
