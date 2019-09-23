@@ -28,7 +28,7 @@ tags:
 featured: true
 
 links:
-- name: "Master Thesis"
+# - name: "Master Thesis"
 #  url: ''
 url_pdf: "/masterthesis/masterthesis.pdf"
 # url_code: '#'
