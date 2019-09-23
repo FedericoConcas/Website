@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Federico Concas is a University of Glasgow graduate with a Master's degree in Data Analytics and a Bachelor's degree in Industrial Biotechnology.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a University of Glasgow graduate with a Master's degree in Data Analytics and a Bachelor's degree in Industrial Biotechnology.
+I am skilled in data analysis, data visualisation and statistical modelling.
