@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Online marketing manager"
   company = "Studio dentistico Aledda"
-  company_url = "www.studioaledda.com"
+  company_url = "https://www.studioaledda.com/"
   location = "Cagliari, Italy"
   date_start = "2014-03-01"
   date_end = "2017-07-01"
