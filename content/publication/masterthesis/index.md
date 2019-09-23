@@ -42,9 +42,7 @@ url_slides: "/masterthesis/Presentation.html"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'On top, the discretized Raman spectra of the Chlorella and the Rhodobacter data sets.
-On the bottom, the same spectra have been smoothed with GAM to visualize the trends better. Each
-colour in the plots represents a metabolic state.'
+  caption: ''
   focal_point: ""
   preview_only: false
 
