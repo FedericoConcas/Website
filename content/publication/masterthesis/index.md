@@ -30,12 +30,12 @@ featured: true
 links:
 - name: "Master Thesis"
 #  url: ''
-url_pdf: "content/masterthesis/masterthesis.pdf"
+url_pdf: "/masterthesis/masterthesis.pdf"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: '#'
-url_slides: "content/masterthesis/Presentation.html"
+url_slides: "/masterthesis/Presentation.html"
 # url_source: '#'
 # url_video: '#'
 
