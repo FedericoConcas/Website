@@ -42,7 +42,7 @@ url_pdf: "files/masterthesis/masterthesis.pdf"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
-url_project: "files/masterthesis/masterthesis.pdf"
+# url_project: '#'
 url_slides: "files/masterthesis/presentation.html"
 # url_source: '#'
 # url_video: '#'
