@@ -30,7 +30,7 @@ featured: true
 links:
 # - name: "Master Thesis"
 #  url: ''
-url_pdf: "/masterthesis/raman_spectroscopy.pdf"
+url_pdf: "/masterthesis/masterthesis.pdf"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
