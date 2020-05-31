@@ -15,7 +15,7 @@ role: Data Scientist
 # Organizations/Affiliations
 organizations:
 - name: GSK
-  url: "www.gsk.com"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Data Scientist at GSK, with a Master's degree in Data Analytics and a background in Industrial Biotechnology.
@@ -68,8 +68,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently involved in projects which help the rollout of R and Quantitative Decision Making in Big Pharma. 
-I am skilled in data analysis, data visualisation and statistical modelling and I have extensive knowledge of biology.
+I am a Data Scientist at GSK, helping the rollout of R and Quantitative Decision Making in Big Pharma.  
+
+I am skilled in data analysis, data visualisation, statistical and algorithmic modelling, and I have extensive knowledge of biology.
 I hold an MSc in Data Analytics from the University of Glasgow, where my dissertation focused on the use of GLMs and machine-learning algorithms for the classification of Raman Spectroscopy data.
 As someone who is passionate about Biology, I hold a Bachelor's degree in Industrial Biotechnology.
-Since statistics is a transversal skill at the heart of science, I believe in data-driven decisions, which can push the limits of knowledge, solve problems, and improve current processes.
