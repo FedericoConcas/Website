@@ -70,6 +70,8 @@ user_groups:
 ---
 I am a Data Scientist at GSK, helping the rollout of R and Quantitative Decision Making in Big Pharma.  
 
-I am skilled in data analysis, data visualisation, statistical and algorithmic modelling, and I have extensive knowledge of biology.
-I hold an MSc in Data Analytics from the University of Glasgow, where my dissertation focused on the use of GLMs and machine-learning algorithms for the classification of Raman Spectroscopy data.
+I am skilled in data analysis, data visualisation, statistical and algorithmic modelling, and I have extensive knowledge of biology.  
+
+I hold an MSc in Data Analytics from the University of Glasgow, where my dissertation focused on the use of GLMs and machine-learning algorithms for the classification of Raman Spectroscopy data.  
+
 As someone who is passionate about Biology, I hold a Bachelor's degree in Industrial Biotechnology.
