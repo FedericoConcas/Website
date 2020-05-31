@@ -28,10 +28,12 @@ date_format = "Jan 2006"
   I build capability within the biostatistics department.
  
   Responsibilities include:
+
   * Helping the rollout of R
   * Creating training materials about prediction modelling and machine learning 
   * Analysing data and producing figures
   * Optimising current processes
+
   """
 
 
