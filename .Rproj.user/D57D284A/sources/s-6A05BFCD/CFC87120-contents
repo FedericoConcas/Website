@@ -48,7 +48,7 @@ experience:
     date_end: ''
     description:
     
-  - title: Intern
+  - title: Assistant researcher (internship)
     company: James Hutton Institute
     company_url: ''
     location: UK
