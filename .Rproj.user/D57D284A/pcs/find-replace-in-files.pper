@@ -1,0 +1,13 @@
+{
+    "dialog-state": {
+        "query": "weibo",
+        "path": "C:/Users/FC653346/OneDrive - GSK/Desktop/Website",
+        "regex": false,
+        "caseSensitive": false,
+        "filePatterns": [],
+        "excludeFilePatterns": [],
+        "resultsCount": 8,
+        "errorCount": 0,
+        "replaceErrors": ""
+    }
+}
