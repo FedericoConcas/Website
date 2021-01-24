@@ -112,7 +112,7 @@ directions = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "linkedin", icon_pack = "fab", name = "Skype Me", link = "https://www.linkedin.com/in/federicoconcas/"},
+  {icon = "linkedin", icon_pack = "fab", name = "Find me on LinkedIn", link = "https://www.linkedin.com/in/federicoconcas/"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/federico_concas"}
   ]
 
