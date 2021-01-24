@@ -42,11 +42,13 @@ experience:
         
   - title: Data Science PSI Special Interest Group
     company: PSI
-    company_url: 'www.psiweb.org/'
+    company_url: 'www.psiweb.org/sigs-special-interest-groups/data-science'
     location: UK
     date_start: '2020-02-10'
     date_end: ''
-    description:
+    description: |2-
+              Bridging Data Science knowledge and expertise across various groups and functions within the pharmaceutical industry.
+              We will encourage the development of new statistical and machine learning methods and approaches as well as in novel applications of the well-established methods.
     
   - title: Assistant researcher (internship)
     company: James Hutton Institute
